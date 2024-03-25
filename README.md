@@ -1,6 +1,11 @@
 
 # Olist
 
+Objectifs pédagogiques :
+
+- Évaluer les performances des modèles d’apprentissage non supervisé
+- Sélectionner et entraîner des modèles d’apprentissage non-supervisé
+
 ![Procédure](https://github.com/KANTANDEV/Olist/assets/94462048/36f66f03-9bc6-4cf4-a889-b513b1390a3f)
 
 Si vous souhaitez télécharger ce projet afin que celui-ci fonctionne correctement veuillez télécharger le jeu de données ci-dessous :
